@@ -1,0 +1,11 @@
+schema: https://api-sa-east-1.graphcms.com/v2/cl4omi63a0f2501xt03escoin/master
+
+documents: './src/**/*.graphql'
+
+
+generates:
+  ./src/generated.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typed-document-node
