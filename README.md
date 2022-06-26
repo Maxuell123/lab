@@ -1,7 +1,11 @@
 # Ignite-Lab
 
 <h1 align="center">
+<<<<<<< HEAD
   <img alt="Ignite-Lab" title="Ignite-Lab" src="/src/assets/Group.png" width="350px" />
+=======
+  <img alt="Ignite-Lab" title="Ignite-Lab" src="" width="350px" />
+>>>>>>> b473c23dcfb891c26d3ea54fee287fbb4e0a5de0
 
 </h1>
 
@@ -13,12 +17,11 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
  <img src="/src/assets/LoginDesktop.png" alt="Home" />
  <img src="/src/assets/PlataformaDesktp.png" alt="Home2" />
+=======
  
-</p>
-
-
 
 ## 🚀 Tecnologias
 
