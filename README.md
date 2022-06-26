@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  <img alt="" title="Ignite-Lab" src="/src/assets/Group.png" width="350px" />
+  <img alt="" title="" src="/src/assets/Group.png" width="350px" />
 
   <img alt="Ignite-Lab" title="Ignite-Lab" src="" width="350px" />
 
