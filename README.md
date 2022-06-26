@@ -4,7 +4,6 @@
 
   <img alt="" title="" src="/src/assets/Group.png" width="350px" />
 
-  <img alt="Ignite-Lab" title="Ignite-Lab" src="" width="350px" />
 
 
 </h1>
