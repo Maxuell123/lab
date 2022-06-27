@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
+
  <img src="/src/assets/LoginDesktop.png" alt="Home" />
  <img src="/src/assets/PlataformaDesktp.png" alt="Home2" />
 
@@ -40,5 +40,5 @@ O Ignite-Lab é uma aplicação para ver videos de aulas online.
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/qYTSfhr7R7sHSSCsAmguFp/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
----
+
 
