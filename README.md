@@ -30,6 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind
 - JavaScript
 - Typescript
+- Vite
+- GraphQL
+- Graphcms 
+- Apollo
+- Phosphor
 
 ## 💻 Projeto Rocketseat PODER DO REACT 
 
